@@ -72,4 +72,5 @@ The app sends only the first 5 characters of the SHA-1 hash prefix to HIBP (k-an
 - Add CI check for lint and basic run
 
 ## Author
-- Your Name
+- Filip (20% Digital)
+- 
