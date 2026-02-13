@@ -7,8 +7,7 @@
 
 Streamlit app for password strength scoring and breach lookup using Have I Been Pwned (Pwned Passwords API).
 
-## Live Demo
-- Streamlit Cloud: `ADD_YOUR_DEPLOY_URL_HERE`
+
 
 ## Features
 - Strength checks for:
@@ -21,8 +20,7 @@ Streamlit app for password strength scoring and breach lookup using Have I Been 
 - Visual feedback (messages + progress bar)
 - Breach check with HIBP Pwned Passwords API (k-anonymity flow)
 
-## Screenshot
-Add a screenshot after deployment:
+
 
 ```md
 ![App Screenshot](docs/screenshot.png)
